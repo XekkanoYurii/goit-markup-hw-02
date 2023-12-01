@@ -30,7 +30,7 @@ a {
   text-transform: uppercase;
   letter-spacing: 0.03em;
 }
-.header-link {
+.nav .header-link {
   color: #2e2f42;
   font-size: 16px;
   font-weight: 500;
@@ -38,8 +38,8 @@ a {
   font-style: normal;
   letter-spacing: 0.02em;
 }
-.header-link:hover,
-.hearer-link:focus {
+.nav .header-link:hover,
+.nav .hearer-link:focus {
   color: #404bbf;
 }
 .link-address {
