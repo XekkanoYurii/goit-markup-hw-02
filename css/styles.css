@@ -39,7 +39,7 @@ a {
   letter-spacing: 0.02em;
 }
 .header-link:hover,
-.heared-link:focus {
+.hearer-link:focus {
   color: #404bbf;
 }
 .header-link-address {
@@ -50,8 +50,8 @@ a {
   font-style: normal;
   letter-spacing: 0.02em;
 }
-.header-link-address:hover,
-.header-link-address:focus {
+.address:hover,
+.address:focus {
   color: #404bbf;
 }
 
