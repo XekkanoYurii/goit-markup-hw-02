@@ -37,9 +37,7 @@ a {
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
-.header-link:hover {
-  color: #404bbf;
-}
+.header-link:hover,
 .heared-link:focus {
   color: #404bbf;
 }
@@ -51,9 +49,7 @@ a {
   font-style: normal;
   letter-spacing: 0.02em;
 }
-.header-link-address:hover {
-  color: #404bbf;
-}
+.header-link-address:hover,
 .header-link-address:focus {
   color: #404bbf;
 }
