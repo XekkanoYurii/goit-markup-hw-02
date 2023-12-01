@@ -1,0 +1,150 @@
+body {
+  color: #434455;
+  background-color: #ffffff;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+}
+ul {
+  list-style-type: none;
+}
+/* Header */
+.logo {
+  color: #4d5ae5;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.17;
+  text-transform: uppercase;
+}
+.logo-dark {
+  color: #2e2f42;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.17;
+  text-transform: uppercase;
+}
+.logo .header-link {
+  color: #2e2f42;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+}
+.header-link:hover {
+  color: #404bbf;
+}
+.address {
+  color: #434455;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.5;
+}
+.address:hover {
+  color: #404bbf;
+}
+
+/* main */
+.heropart {
+  background-color: #2e2f42;
+  width: 1440px;
+  height: 600px;
+}
+h1 {
+  color: #fff;
+  font-size: 56px;
+  font-weight: 700;
+  line-height: 1;
+  width: 496px;
+  text-align: center;
+}
+button {
+  color: #fff;
+  background-color: #4d5ae5;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.5;
+  cursor: pointer;
+}
+button:hover {
+  background-color: #404bbf;
+}
+.sectionone .title {
+  color: #2e2f42;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.2;
+}
+.sectionone .text {
+  color: #434455;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.5;
+}
+
+/* team */
+.ourteam {
+  background-color: #f4f4fd;
+}
+h2 {
+  color: #2e2f42;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 1;
+}
+.ourteam .name {
+  color: #2e2f42;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.2;
+}
+.ourteam .text {
+  color: #434455;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.5;
+}
+/* OURPORTFOLIO */
+.ourportfolio .title {
+  color: #2e2f42;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.2;
+}
+.ourportfolio .text {
+  color: #434455;
+  font-size: 16px;
+  font-size: 16px;
+  line-height: 1.5;
+}
+.ourportfoliotwo .title {
+  color: #2e2f42;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.2;
+}
+.ourportfoliotwo .title {
+  color: #434455;
+  font-size: 16px;
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+/* footer */
+.logo-white {
+  color: #f4f4fd;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 1.17;
+}
+.footer .text {
+  color: #f4f4fd;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.5;
+}
+.footer {
+  background-color: #2e2f42;
+  width: 1440px;
+  height: 312px;
+}
