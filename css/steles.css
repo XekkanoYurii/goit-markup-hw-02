@@ -1,11 +1,28 @@
 body {
+  color: #434455;
+  background-color: #ffffff;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  font-size: 16px;
 }
 /* Header */
-.logo {
+.header .logo {
   color: #4d5ae5;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.54px;
+  text-transform: uppercase;
 }
-.logo-dark {
+.header .logo-dark {
   color: #2e2f42;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.54px;
+  text-transform: uppercase;
 }
 .header-link {
   color: #2e2f42;
@@ -58,6 +75,8 @@ button:hover {
 }
 .footer > .text {
   color: #f4f4fd;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 700;
 }
 .footer {
   background-color: #2e2f42;
